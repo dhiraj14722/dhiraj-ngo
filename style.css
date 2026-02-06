@@ -4,7 +4,7 @@ body {
 }
 
 .bg-image {
-    background: url("https://images.unsplash.com/photo-1521737604893-d14cc237f11d");
+    background: url("image/sahil.223.jpg");
     background-size: cover;
     height: 100vh;
     color: white;
@@ -22,9 +22,7 @@ nav a {
     margin-left: 15px;
     text-decoration: none;
 }
-.background {
-     background: url("image/sahil.223.jpg");
-}
+
 
 .hero {
     text-align: center;
@@ -77,4 +75,5 @@ nav a {
     width: 400px;
     text-align: center;
 }
+
 
