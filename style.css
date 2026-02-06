@@ -22,6 +22,9 @@ nav a {
     margin-left: 15px;
     text-decoration: none;
 }
+.background {
+     background: url("image/sahil.223.jpg");
+}
 
 .hero {
     text-align: center;
@@ -74,3 +77,4 @@ nav a {
     width: 400px;
     text-align: center;
 }
+
