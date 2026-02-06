@@ -5,7 +5,9 @@ body {
 
 .bg-image {
     background: url("image/sahil.223.jpg");
-    background-size: cover;
+    background-size: covere;
+    background-position: center;           
+   background-repeat: no-repeat;
     height: 100vh;
     color: white;
 }
@@ -75,5 +77,6 @@ nav a {
     width: 400px;
     text-align: center;
 }
+
 
 
